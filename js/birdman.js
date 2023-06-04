@@ -90,7 +90,7 @@
     // countdown setup start
     $("#countdown").countdown(
       {
-        date: "08 June 2023 17:00:00", // countdown target date settings
+        date: "09 June 2023 00:00:00", // countdown target date settings
         format: "on",
       },
       function () {
